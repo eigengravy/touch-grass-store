@@ -1,0 +1,11 @@
+[
+    {
+      "id": 1,
+      "name": "Grass0",
+      "price": "0.09",
+      "description": "Get this patch of grass for only $0.09!",
+      "image_url": "https://images.pexels.com/photos/413195/pexels-photo-413195.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "filename": "grass0.jpg",
+      "hash": "QmeM3HGCbdYi7wSwXyKXboobiaVaQjaKRJZvQVrj1Hs2aq"
+    }
+  ]
